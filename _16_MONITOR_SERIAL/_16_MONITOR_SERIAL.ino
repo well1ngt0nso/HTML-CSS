@@ -1,14 +1,14 @@
 /*
 ****************************************************
-  Título:                    #16 MONITOR SERIAL
+  Título:                       #16 MONITOR SERIAL
   DATA:                           20/11/2022
-  MANTIDO POR:                  ASTRON MAKER
-  INSTAGRAM:                    @astronmaker
-  EMAIL:                    astronmaler@gmail.com
+  MANTIDO POR:              ASTRON MAKER/Wellington S. O.
+  INSTAGRAM:                      @astronmaker
+  EMAIL:                      astronmaker@gmail.com
   GITHUB:
-  VERSÃO ARDUINO IDE:             1.8.19
-  DESCRIÇÃO:     Como utilizar o monitor serial,
-               simples exemplo de uso
+  VERSÃO ARDUINO IDE:                1.8.19
+  DESCRIÇÃO:       Como utilizar o monitor serial,
+                   simples exemplo de uso
 *****************************************************
 */
 void setup() {
