@@ -19,21 +19,30 @@ Let's Go!!
 Um documento HTML começa com uma estrutura básica que inclui:
 
 ```html
+<!-- Estrutura básica da página -->
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <title>Exemplo com JavaScript no Lado do Cliente</title>
+    <!-- Link para o arquivo CSS externo -->
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
+    <!-- Título principal da página -->
     <h1>Bem-vindo ao JavaScript no Cliente</h1>
+
+    <!-- Parágrafo onde a mensagem será exibida -->
     <p id="mensagem">Clique no botão para exibir uma mensagem.</p>
+
+    <!-- Botão que aciona o evento de clique -->
     <button id="botao">Clique Aqui</button>
 
+    <!-- Link para o arquivo JavaScript externo -->
     <script src="script.js"></script>
 </body>
 </html>
+
 ```
 ## CSS (Cascading Style Sheets)🎨
 
@@ -52,10 +61,12 @@ body {
     text-align: center;
 }
 
+/* Estilo do título */
 h1 {
     color: #0077cc;
 }
 
+/* Estilo do botão */
 #botao {
     padding: 10px 20px;
     font-size: 16px;
@@ -66,6 +77,7 @@ h1 {
     cursor: pointer;
 }
 
+/* Estilo para o botão ao passar o mouse (hover) */
 #botao:hover {
     background-color: #005fa3;
 }
