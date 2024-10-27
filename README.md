@@ -103,3 +103,15 @@ function exibirMensagem() {
 // Adiciona um evento de clique ao botão
 botao.addEventListener('click', exibirMensagem);
 ```
+
+##Cada uma dessas partes quando juntas formam um simples projeto:
+
+```graphql
+projeto_init
+│
+├── README.md              # Documentação do projeto
+├── index.html             # Arquivo HTML principal
+├── estilos.css            # Arquivo CSS para estilos
+└── script.js              # Arquivo JavaScript para interatividade
+```
+Paara testar basta baixar a pasta [projeto_init](projeto_init) ou clonar o repositórioe executar o arquivo indicado
