@@ -10,6 +10,10 @@ Esse repositório faz parte de um projeto maior envolvendo interface web, servid
 Vou listar várias aulas com vários exemplos que vão evoluindo com o tempo📈
 
 Let's Go!!
+## ARQUIVOS
+
+* [1_html_e_tags]()
+* 
 
 ## HTML (HyperText Markup Language)🧱
 
@@ -114,4 +118,6 @@ projeto_init
 ├── estilos.css            # Arquivo CSS para estilos
 └── script.js              # Arquivo JavaScript para interatividade
 ```
-Paara testar basta baixar a pasta [projeto_init](projeto_init) ou clonar o repositórioe executar o arquivo indicado
+Paara testar basta baixar a pasta [projeto_init](projeto_init) ou clonar o repositório e executar o arquivo indicado
+
+Para baixar só a pasta pode utilizar esse site [>>](https://minhaskamal.github.io/DownGit/#/home)
