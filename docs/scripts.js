@@ -1,4 +1,3 @@
-alert('vai')
 // Seleciona o botão e o parágrafo
 const botao = document.getElementById('botao');
 const mensagem = document.getElementById('mensagem');
