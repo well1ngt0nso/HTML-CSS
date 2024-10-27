@@ -32,7 +32,7 @@ Um documento HTML começa com uma estrutura básica que inclui:
     <!-- Link para o arquivo CSS externo -->
     <link rel="stylesheet" href="estilos.css">
     <!-- Link para o arquivo JavaScript externo -->
-    <script src="script.js"></script>
+    <script src="script.js" defer></script>
 </head>
 <body>
     <!-- Título principal da página -->
