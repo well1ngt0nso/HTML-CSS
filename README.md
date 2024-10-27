@@ -118,6 +118,8 @@ projeto_init
 ├── estilos.css            # Arquivo CSS para estilos
 └── script.js              # Arquivo JavaScript para interatividade
 ```
-Paara testar basta baixar a pasta [projeto_init](projeto_init) ou clonar o repositório e executar o arquivo indicado
+Para testar a junção destas partes (html,css e javascriptbaixar) bastar baixar a pasta [projeto_init](projeto_init) ou clonar o repositório e executar o arquivo index.html no navegador
 
 Para baixar só a pasta pode utilizar esse site [>>](https://minhaskamal.github.io/DownGit/#/home)
+
+Ou acessar direto pelo git [>>](https://well1ngt0nso.github.io/HTML-CSS/)
