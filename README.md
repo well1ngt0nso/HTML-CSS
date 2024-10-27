@@ -27,6 +27,8 @@ Um documento HTML começa com uma estrutura básica que inclui:
     <title>Exemplo com JavaScript no Lado do Cliente</title>
     <!-- Link para o arquivo CSS externo -->
     <link rel="stylesheet" href="estilos.css">
+    <!-- Link para o arquivo JavaScript externo -->
+    <script src="script.js"></script>
 </head>
 <body>
     <!-- Título principal da página -->
@@ -37,9 +39,6 @@ Um documento HTML começa com uma estrutura básica que inclui:
 
     <!-- Botão que aciona o evento de clique -->
     <button id="botao">Clique Aqui</button>
-
-    <!-- Link para o arquivo JavaScript externo -->
-    <script src="script.js"></script>
 </body>
 </html>
 
