@@ -1,4 +1,3 @@
-#HTML 
 # HTML
 
 HTML (Hypertext Markup Language) é uma **linguagem de marcação**, o que a diferencia das linguagens de programação comuns, como `Python`, `C`, `C++` e outras. Enquanto linguagens de programação são voltadas para a criação de lógica e manipulação de dados, HTML tem como objetivo estruturar e organizar o conteúdo de páginas web.
