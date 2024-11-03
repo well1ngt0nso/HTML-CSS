@@ -13,7 +13,7 @@ Let's Go!!
 ## ARQUIVOS
 
 * [1_html_e_tags]()
-* 
+* [2_estrutura_html](https://github.com/well1ngt0nso/HTML-CSS/blob/main/html/README.md#html)
 
 ## HTML (HyperText Markup Language)🧱
 
